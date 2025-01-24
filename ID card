@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Sasi College ID Card</title>
+</head>
+<body>
+    <div style="width: 350px; border: 3px solid #000; border-radius: 10px; padding: 40px; text-align: center; font-family: Arial, sans-serif;">
+        <img src="https://sasi.ac.in/wp-content/uploads/2024/08/SASI-LOGO-960x188-1-800x157-1.png" alt="Sasi College Logo" style="width: 100%; height: auto;">
+        <h2>SASI INSTITUTE OF TECHNOLOGY & ENGINEERING </h2>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRle-ijDZB9u525u3q1Edewxp3tFfE1itKfTw&s" alt="Student Photo" style="width: 150px; height: auto; border-radius: 30%; margin: 10px 0;">
+        <h3>RAVI VARAPRASAD</h3>
+        <p>B.Tech-CSE</p>
+        <p><b>23K61A05F8</b></p>
+        <img src="https://barcode.tec-it.com/barcode.ashx?data=23K61A05F8%0A&translate-esc=on"alt="Barcode" style="margin-top: 10px;">
+    </div>
+</body>
+</html>
