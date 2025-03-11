@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        #div1{
+            width:33.3%;
+            float:left;
+            background-color: lightgoldenrodyellow;
+
+        }
+        #div2{
+            width:33.3%;
+           float:right;
+            background-color: lightcyan;
+
+        }
+        #div3{
+            width:33.3%;
+            margin:0 auto;
+            background-color: lightgrey;
+
+        }
+    </style>
+</head>
+<body>
+    <div id="div1">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0eGmGErlej6PW9jW0l_3WkqcRSUt79ZmqKw&s">
+        <h1> Mahesh babu</h1>
+    </div>
+    <div id="div2">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8O2kBMMlg7R3Efe495TFEEU9nxPKA5MTI_Q&s">
+        <h1> Ram Charan</h1>
+    </div>
+    <div id="div3">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyQH6o8bY-gpx0YFWbUnL9LWZ2r8BbmkzjUg&s">
+        <h1> Kalyan babu</h1>
+    </div>
+</body>
+</html>
